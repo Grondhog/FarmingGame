@@ -11,7 +11,7 @@ public class EightDirectionPlayerController : MonoBehaviour {
 	
 	void Start () {
 		rg = GetComponentInChildren<RotateGraphics>();
-		print(rg);
+
 	}
 	
 	// Update is called once per frame

@@ -47,6 +47,8 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\EightDirectionPlayerController.cs" />
+     <Compile Include="Assets\Scripts\HighlightControl.cs" />
+     <Compile Include="Assets\Scripts\MapGeneration.cs" />
      <Compile Include="Assets\Scripts\RotateGraphics.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

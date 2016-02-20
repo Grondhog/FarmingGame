@@ -1,11 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EightDirectionPlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HighlightControl.cs">
     <Files>
-      <File FileName="Assets\Scripts\EightDirectionPlayerController.cs" Line="9" Column="13" />
-      <File FileName="..\..\FirstpersonRepo\FirstPerson\Assets\Scripts\PlayerController.cs" Line="50" Column="3" />
-      <File FileName="Assets\Scripts\RotateGraphics.cs" Line="11" Column="38" />
-      <File FileName="Assets\Scripts\CameraFollow.cs" Line="7" Column="30" />
+      <File FileName="Assets\Scripts\MapGeneration.cs" Line="15" Column="18" />
+      <File FileName="Assets\Scripts\EightDirectionPlayerController.cs" Line="14" Column="3" />
+      <File FileName="..\..\FirstpersonRepo\FirstPerson\Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RotateGraphics.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HighlightControl.cs" Line="17" Column="66" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
